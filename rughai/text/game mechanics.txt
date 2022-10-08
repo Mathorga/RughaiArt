@@ -1,0 +1,37 @@
+INVENTORY, BUFFS, REMEDIES AND TOMES
+
+There is no magic, just technology, nature and knowledge. Buffs are mainly temporary and given by assuming a combination of crafted herbs or fruits (from now on defined as 'remedies').
+There is no experience as a statistic. Instead, the character might gain permanent buffs by reading tomes.
+
+The character may hold a fair amount of remedies in its bag, in order to use them the player must open the inventory or equip them in the belt.
+The character may hold a limited amount of remedies in its belt, those will be very rapidly usable without opening the inventory.
+
+The player will sporadically find upgrades that will allow a bigger storage of items and remedies.
+
+Remedies are obtainable by crafting and combining naturally occurring drops such as herbs and fruits. The effect of remedies can be further increased by adding specific ingredients.
+Remedies and tomes are not stackable, ingredients are stackable to a maximum of 5pcs
+
+BAG:
+
+|------------------------------------|
+| REMEDIES:         INGREDIENTS:     |
+| 1-                1-               |
+| 2-                2-               |
+| 3-                3-               |
+| 4-                4-               |
+| 5-                5-               |
+|                   6-               |
+| TOMES:            7-               |
+| 1-                8-               |
+| 2-                9-               |
+| 3-                10-              |
+|                                    |
+|------------------------------------|
+
+BELT:
+
+|-------------------------------|
+|       |       |       |       |
+|   X   |   X   |   X   |   X   |
+|       |       |       |       |
+|-------------------------------|

@@ -1,0 +1,31 @@
+Sapiens (humans) are an ancient civilization coming from the stars. all races descend from them.
+Luminata is built upon their landing site and is now just an old ruin (greek inspired).
+Underneath Luminata is the wrecked ship used by the sapiens to get to the planet and one of them is still there, alive, artificially preserved in a cryogenic hibernation,
+until Iryo and Aura find him and wake him up (find quest)
+
+The hibernation state might come from a malfunction in the teleportation system.
+
+When the sapiens approached the planet, some of them, afraid by the harsh conditions of the planet, did everything they could to hide from the surface;
+they were the ancestors of the moorls, a tribe now populating the volcano.
+Other sapiens desperately tried to fix the peleportation device in an attempt to get back to Earth, but failed.
+
+The last person was dematerialized and memorized in the machine before it broke.
+When Iryo and Aura get to the machine with the necessary element to fix it, they unlock it and the last person is rematerialized. (discrepancy, see line 3)
+
+Moorls hold the key to unlock the machine and are not willing to give it to strangers, because they don't want to restore it.
+Moorls see the teleport machine as devil-ish while rughai, rokor and shieva see it as a sort of salvation.
+Moorls are Falmer inspired, they fight intruders on sight and are hostile.
+
+Surface people talk about the salvation device hidden in the mountain deeps (the teleporter).
+It's seen as a godly device that will bring people to heaven (Earth), depicted as made by God himself when he came to the planet.
+
+...FIND A NAME TO THE PLANET...
+
+|-------------------------------|
+|COMMUNITY | BIOME    | TRIBE   |
+|----------|----------|---------|
+|Rughai    | Mountain | Viking  |
+|Rokor     | Forest   | African |
+|Shieva    | Beach    | Chinese |
+|Luminata  | Cave     | Greek   |
+|-------------------------------|
