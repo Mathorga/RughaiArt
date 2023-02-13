@@ -1,0 +1,68 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "rughai_hub_50_50.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "rughai_ground.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 11
+        },
+        "rughai_hub.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1,
+                "y": 64
+            }
+        },
+        "rughai_hub_50_50.tmx": {
+            "expandedGroupLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 287.75,
+                "y": 195.5
+            }
+        },
+        "rughai_hubtmx.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 92.99999999999999,
+                "y": 69
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/luka/Projects/tiled",
+    "last.imagePath": "C:/Users/luka/Projects/tiled",
+    "map.fixedSize": true,
+    "map.height": 50,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 50,
+    "openFiles": [
+        "rughai_ground.tsx",
+        "rughai_hub_50_50.tmx"
+    ],
+    "project": "rughai.tiled-project",
+    "recentFiles": [
+        "rughai_ground.tsx",
+        "rughai_hub_50_50.tmx",
+        "rughai_hub.tmx",
+        "rughai_hubtmx.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
