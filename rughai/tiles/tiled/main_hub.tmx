@@ -4,7 +4,6 @@
   <export target="main_hub.tmj" format="json"/>
  </editorsettings>
  <tileset firstgid="1" source="main_tileset.tsx"/>
- <tileset firstgid="337" source="pit_tileset.tsx"/>
  <tileset firstgid="337" source="walls_tileset.tsx"/>
  <layer id="5" name="lower level" width="50" height="50">
   <data encoding="csv">
