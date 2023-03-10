@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.9" tiledversion="1.9.2" name="slope_tileset" tilewidth="8" tileheight="8" tilecount="45" columns="5">
- <image source="../slope_tileset.png" width="40" height="72"/>
+ <image source="../tilesets/slope_tileset.png" width="40" height="72"/>
  <wangsets>
   <wangset name="Unnamed Set" type="edge" tile="-1">
    <wangcolor name="" color="#00ff00" tile="-1" probability="1"/>
